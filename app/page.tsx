@@ -9,8 +9,8 @@ export default function Home() {
       <section className="relative flex min-h-[90vh] items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?auto=format&fit=crop&q=80&w=2400"
-            alt="Yoga class in an outdoor Ashram"
+            src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=2400"
+            alt="Yoga in Rishikesh"
             fill
             className="object-cover object-center"
             priority
